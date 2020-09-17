@@ -1,0 +1,624 @@
+,0
+0,Excellent/Very Good
+1,Very Good/Poor
+2,Poor/Fair
+3,Excellent/Very Good
+4,Poor/Fair
+5,Poor/Fair
+6,Poor to Fair/Excellent
+7,Good/Good
+8,Poor to Fair/Excellent
+9,Excellent/Very Good
+10,Excellent/Very Good
+11,Poor to Fair/Excellent
+12,Very Good/Poor
+13,Poor/Fair
+14,Fair
+15,Poor
+16,Poor/Fair
+17,Poor/Fair
+18,Excellent
+19,Excellent/Good
+20,Excellent/Very Good
+21,Excellent/Good
+22,Poor
+23,Poor to Fair/Excellent
+24,Good/Good
+25,Poor/Fair
+26,Fair
+27,Excellent/Very Good
+28,Poor
+29,Excellent/Good
+30,Very Good/Poor
+31,Fair
+32,Poor/Fair
+33,Poor to Fair/Excellent
+34,Fair
+35,Very Good/Poor
+36,Good/Good
+37,Poor/Fair
+38,Fair
+39,Poor/Fair
+40,Poor to Fair/Excellent
+41,Fair/Good
+42,Excellent
+43,Very Good/Poor
+44,Poor to Fair/Excellent
+45,Very Good/Poor
+46,Excellent/Good
+47,Excellent/Very Good
+48,Poor/Fair
+49,Poor/Fair
+50,Excellent/Very Good
+51,Excellent/Very Good
+52,Poor/Fair
+53,Excellent/Very Good
+54,Excellent/Good
+55,Very Good/Poor
+56,Poor/Fair
+57,Poor to Fair/Excellent
+58,Poor
+59,Good/Good
+60,Poor to Fair/Excellent
+61,Poor
+62,Excellent/Very Good
+63,Poor/Fair
+64,Excellent/Very Good
+65,Good/Very Good
+66,Fair
+67,Good/Good
+68,Excellent/Very Good
+69,Good/Good
+70,Excellent/Very Good
+71,Poor/Fair
+72,Poor to Fair/Excellent
+73,Excellent/Very Good
+74,Excellent/Very Good
+75,Excellent/Very Good
+76,Poor/Fair
+77,Very Good/Poor
+78,Poor
+79,Poor/Good
+80,Fair
+81,Very Good/Poor
+82,Very Good/Poor
+83,Poor
+84,Poor/Fair
+85,Poor
+86,Excellent/Good
+87,Poor/Fair
+88,Excellent/Very Good
+89,Poor
+90,Poor to Fair/Excellent
+91,Very Good/Poor
+92,Very Good/Poor
+93,Poor
+94,Poor/Fair
+95,Excellent/Very Good
+96,Very Good/Poor
+97,Very Good/Poor
+98,Good/Good
+99,Poor
+100,Very Good/Poor
+101,Poor/Fair
+102,Poor to Fair/Excellent
+103,Poor to Fair/Excellent
+104,Poor to Fair/Excellent
+105,Poor
+106,Poor
+107,Fair/Good
+108,Very Good/Poor
+109,Excellent/Good
+110,Very Good/Poor
+111,Very Good/Poor
+112,Fair
+113,Poor/Fair
+114,Poor to Fair/Excellent
+115,Poor/Fair
+116,Poor
+117,Poor to Fair/Excellent
+118,Poor/Fair
+119,Poor
+120,Poor to Fair/Excellent
+121,Poor to Fair/Excellent
+122,Poor/Fair
+123,Poor
+124,Poor
+125,Poor to Fair/Excellent
+126,Fair
+127,Good/Good
+128,Excellent/Good
+129,Poor/Fair
+130,Excellent
+131,Excellent
+132,Excellent/Very Good
+133,Poor
+134,Very Good/Poor
+135,Excellent/Good
+136,Poor
+137,Poor to Fair/Excellent
+138,Fair/Good
+139,Very Good/Poor
+140,Poor/Fair
+141,Excellent/Good
+142,Poor
+143,Fair
+144,Poor/Fair
+145,Excellent/Very Good
+146,Excellent/Very Good
+147,Excellent/Very Good
+148,Poor/Fair
+149,Excellent/Very Good
+150,Poor to Fair/Excellent
+151,Poor to Fair/Excellent
+152,Poor to Fair/Excellent
+153,Poor/Fair
+154,Poor/Fair
+155,Poor to Fair/Excellent
+156,Very Good/Excellent
+157,Excellent/Very Good
+158,Excellent/Very Good
+159,Fair/Good
+160,Excellent
+161,Excellent/Good
+162,Poor/Fair
+163,Excellent/Very Good
+164,Excellent/Very Good
+165,Poor/Fair
+166,Excellent
+167,Poor/Fair
+168,Very Good/Poor
+169,Fair
+170,Poor/Fair
+171,Fair/Good
+172,Excellent/Very Good
+173,Very Good/Poor
+174,Excellent
+175,Good/Good
+176,Poor to Fair/Excellent
+177,Poor
+178,Excellent/Very Good
+179,Fair/Good
+180,Poor to Fair/Excellent
+181,Fair
+182,Poor/Fair
+183,Poor/Fair
+184,Very Good/Poor
+185,Very Good/Poor
+186,Excellent/Very Good
+187,Poor to Fair/Excellent
+188,Poor to Fair/Excellent
+189,Poor to Fair/Excellent
+190,Fair/Good
+191,Poor/Fair
+192,Fair
+193,Fair/Good
+194,Poor to Fair/Excellent
+195,Good/Fair
+196,Excellent/Good
+197,Poor/Fair
+198,Poor to Fair/Excellent
+199,Poor to Fair/Excellent
+200,Poor
+201,Fair/Good
+202,Poor/Fair
+203,Good/Fair
+204,Fair/Good
+205,Excellent
+206,Poor
+207,Poor to Fair/Excellent
+208,Poor
+209,Very Good/Poor
+210,Fair/Good
+211,Poor/Fair
+212,Fair
+213,Excellent/Very Good
+214,Fair
+215,Fair
+216,Excellent/Very Good
+217,Poor/Fair
+218,Fair/Good
+219,Excellent
+220,Poor
+221,Very Good/Poor
+222,Good/Good
+223,Poor to Fair/Excellent
+224,Poor to Fair/Excellent
+225,Very Good/Poor
+226,Poor to Fair/Excellent
+227,Excellent/Good
+228,Poor
+229,Good/Good
+230,Poor
+231,Good/Good
+232,Excellent/Good
+233,Poor
+234,Very Good/Poor
+235,Poor to Fair/Excellent
+236,Poor
+237,Poor/Fair
+238,Poor/Fair
+239,Poor/Fair
+240,Poor/Fair
+241,Very Good/Poor
+242,Poor to Fair/Excellent
+243,Poor/Fair
+244,Poor/Fair
+245,Poor to Fair/Excellent
+246,Very Good/Poor
+247,Poor/Fair
+248,Poor to Fair/Excellent
+249,Fair/Good
+250,Excellent/Very Good
+251,Excellent/Good
+252,Poor to Fair/Excellent
+253,Poor/Fair
+254,Excellent
+255,Poor/Fair
+256,Poor
+257,Excellent
+258,Excellent/Very Good
+259,Poor
+260,Good/Good
+261,Poor/Fair
+262,Very Good/Poor
+263,Poor to Fair/Excellent
+264,Poor
+265,Poor
+266,Poor to Fair/Excellent
+267,Poor/Fair
+268,Very Good/Poor
+269,Poor/Fair
+270,Excellent/Very Good
+271,Fair
+272,Poor/Fair
+273,Very Good/Poor
+274,Poor
+275,Poor to Fair/Excellent
+276,Excellent/Very Good
+277,Very Good/Poor
+278,Poor
+279,Poor
+280,Poor/Fair
+281,Poor
+282,Poor
+283,Fair
+284,Fair
+285,Poor
+286,Poor to Fair/Excellent
+287,Poor to Fair/Excellent
+288,Excellent/Very Good
+289,Poor to Fair/Excellent
+290,Fair
+291,Poor
+292,Poor/Fair
+293,Excellent
+294,Poor
+295,Excellent/Good
+296,Poor to Fair/Excellent
+297,Poor to Fair/Excellent
+298,Poor
+299,Fair
+300,Excellent
+301,Excellent/Good
+302,Poor
+303,Very Good/Poor
+304,Excellent/Very Good
+305,Very Good/Excellent
+306,Excellent/Good
+307,Poor to Fair/Excellent
+308,Excellent/Very Good
+309,Excellent/Good
+310,Good/Good
+311,Poor to Fair/Excellent
+312,Good/Good
+313,Excellent/Very Good
+314,Poor to Fair/Excellent
+315,Poor to Fair/Excellent
+316,Excellent/Very Good
+317,Excellent
+318,Poor to Fair/Excellent
+319,Poor to Fair/Excellent
+320,Poor/Good
+321,Poor to Fair/Excellent
+322,Poor to Fair/Excellent
+323,Poor
+324,Poor to Fair/Excellent
+325,Poor/Fair
+326,Very Good/Poor
+327,Fair
+328,Poor
+329,Poor
+330,Poor to Fair/Excellent
+331,Very Good/Poor
+332,Excellent/Very Good
+333,Poor
+334,Excellent/Very Good
+335,Excellent/Good
+336,Excellent/Good
+337,Poor
+338,Poor
+339,Very Good/Poor
+340,Fair
+341,Excellent/Good
+342,Poor to Fair/Excellent
+343,Excellent/Very Good
+344,Poor to Fair/Excellent
+345,Poor
+346,Excellent/Very Good
+347,Excellent
+348,Good/Good
+349,Excellent/Very Good
+350,Good/Good
+351,Poor/Fair
+352,Poor
+353,Poor
+354,Very Good/Poor
+355,Fair/Very Good
+356,Good/Good
+357,Poor
+358,Good/Fair
+359,Excellent/Good
+360,Poor/Fair
+361,Fair
+362,Poor to Fair/Excellent
+363,Poor
+364,Poor
+365,Poor/Fair
+366,Poor/Fair
+367,Poor/Good
+368,Poor to Fair/Excellent
+369,Poor
+370,Poor/Fair
+371,Excellent/Very Good
+372,Fair/Good
+373,Excellent/Very Good
+374,Poor/Fair
+375,Poor to Fair/Excellent
+376,Fair
+377,Fair
+378,Poor to Fair/Excellent
+379,Excellent
+380,Poor
+381,Fair/Good
+382,Good/Good
+383,Excellent/Very Good
+384,Poor/Fair
+385,Excellent/Very Good
+386,Excellent/Very Good
+387,Excellent/Good
+388,Excellent/Good
+389,Excellent/Very Good
+390,Poor to Fair/Excellent
+391,Fair
+392,Very Good/Poor
+393,Excellent/Good
+394,Poor to Fair/Excellent
+395,Very Good/Poor
+396,Poor to Fair/Excellent
+397,Good/Good
+398,Very Good/Poor
+399,Poor to Fair/Excellent
+400,Poor to Fair/Excellent
+401,Poor to Fair/Excellent
+402,Poor
+403,Poor to Fair/Excellent
+404,Poor
+405,Fair/Good
+406,Good/Excellent
+407,Poor
+408,Fair/Good
+409,Poor/Fair
+410,Excellent/Good
+411,Excellent/Very Good
+412,Good/Good
+413,Very Good/Poor
+414,Poor to Fair/Excellent
+415,Fair
+416,Poor
+417,Poor/Fair
+418,Poor to Fair/Excellent
+419,Poor to Fair/Excellent
+420,Very Good/Poor
+421,Poor to Fair/Excellent
+422,Poor
+423,Poor/Fair
+424,Fair
+425,Excellent/Very Good
+426,Poor to Fair/Excellent
+427,Poor/Fair
+428,Very Good/Poor
+429,Poor/Fair
+430,Excellent
+431,Good/Good
+432,Fair/Good
+433,Fair/Good
+434,Very Good/Poor
+435,Poor to Fair/Excellent
+436,Poor to Fair/Excellent
+437,Excellent/Very Good
+438,Poor/Fair
+439,Fair/Good
+440,Fair/Very Good
+441,Poor to Fair/Excellent
+442,Poor to Fair/Excellent
+443,Poor to Fair/Excellent
+444,Fair
+445,Poor to Fair/Excellent
+446,Poor
+447,Poor to Fair/Excellent
+448,Poor
+449,Poor to Fair/Excellent
+450,Poor
+451,Fair/Good
+452,Excellent/Very Good
+453,Fair/Good
+454,Poor/Fair
+455,Excellent
+456,Good/Good
+457,Poor
+458,Poor/Fair
+459,Good/Very Good
+460,Poor to Fair/Excellent
+461,Poor to Fair/Excellent
+462,Poor to Fair/Excellent
+463,Fair/Good
+464,Poor
+465,Excellent/Good
+466,Poor
+467,Good/Very Good
+468,Excellent/Very Good
+469,Poor
+470,Poor to Fair/Excellent
+471,Excellent/Very Good
+472,Fair/Good
+473,Excellent/Very Good
+474,Poor to Fair/Excellent
+475,Good/Good
+476,Excellent
+477,Good/Very Good
+478,Poor to Fair/Excellent
+479,Good/Good
+480,Poor to Fair/Excellent
+481,Poor
+482,Poor/Fair
+483,Poor
+484,Fair/Good
+485,Poor
+486,Poor
+487,Excellent/Good
+488,Fair/Good
+489,Excellent/Good
+490,Excellent
+491,Excellent
+492,Poor/Fair
+493,Excellent/Very Good
+494,Poor to Fair/Excellent
+495,Very Good/Poor
+496,Excellent/Very Good
+497,Fair/Good
+498,Very Good/Poor
+499,Excellent/Good
+500,Poor
+501,Fair/Good
+502,Good/Fair
+503,Excellent/Good
+504,Poor/Fair
+505,Very Good/Poor
+506,Excellent/Very Good
+507,Fair
+508,Fair
+509,Poor to Fair/Excellent
+510,Excellent
+511,Very Good/Poor
+512,Good/Good
+513,Poor/Fair
+514,Excellent/Very Good
+515,Excellent/Very Good
+516,Good/Good
+517,Excellent/Very Good
+518,Poor to Fair/Excellent
+519,Good/Good
+520,Very Good/Poor
+521,Poor/Fair
+522,Poor to Fair/Excellent
+523,Poor to Fair/Excellent
+524,Very Good/Poor
+525,Very Good/Poor
+526,Poor
+527,Very Good/Poor
+528,Excellent
+529,Excellent/Very Good
+530,Excellent/Very Good
+531,Poor to Fair/Excellent
+532,Fair/Good
+533,Excellent/Very Good
+534,Poor/Fair
+535,Poor
+536,Poor/Fair
+537,Excellent/Good
+538,Poor
+539,Excellent/Very Good
+540,Poor to Fair/Excellent
+541,Excellent/Very Good
+542,Poor
+543,Fair
+544,Excellent/Very Good
+545,Poor to Fair/Excellent
+546,Poor
+547,Very Good/Poor
+548,Excellent/Very Good
+549,Excellent
+550,Poor to Fair/Excellent
+551,Fair
+552,Excellent/Very Good
+553,Excellent/Very Good
+554,Very Good/Poor
+555,Good/Good
+556,Poor/Fair
+557,Poor
+558,Poor/Fair
+559,Poor to Fair/Excellent
+560,Very Good/Poor
+561,Excellent
+562,Poor/Fair
+563,Poor
+564,Fair
+565,Good/Good
+566,Poor/Fair
+567,Poor to Fair/Excellent
+568,Fair
+569,Poor to Fair/Excellent
+570,Excellent
+571,Poor to Fair/Excellent
+572,Poor/Good
+573,Poor to Fair/Excellent
+574,Very Good/Poor
+575,Poor
+576,Poor
+577,Good/Very Good
+578,Excellent/Very Good
+579,Poor to Fair/Excellent
+580,Poor
+581,Excellent
+582,Poor
+583,Poor
+584,Excellent/Very Good
+585,Excellent
+586,Poor/Fair
+587,Poor to Fair/Excellent
+588,Good/Good
+589,Excellent/Very Good
+590,Poor/Fair
+591,Excellent
+592,Poor/Fair
+593,Fair/Good
+594,Excellent/Very Good
+595,Fair
+596,Poor to Fair/Excellent
+597,Excellent/Good
+598,Fair/Poor
+599,Poor/Fair
+600,Poor to Fair/Excellent
+601,Fair
+602,Poor
+603,Poor/Fair
+604,Poor
+605,Poor to Fair/Excellent
+606,Fair/Good
+607,Good/Good
+608,Fair/Good
+609,Excellent
+610,Poor/Fair
+611,Excellent
+612,Excellent/Very Good
+613,Poor/Fair
+614,Good/Fair
+615,Excellent/Very Good
+616,Poor
+617,Good/Good
+618,Very Good/Poor
+619,Very Good/Poor
+620,Poor to Fair/Excellent
+621,Excellent/Good
+622,Excellent/Good

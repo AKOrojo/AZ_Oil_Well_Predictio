@@ -1,0 +1,11 @@
+.
+./Azubi Africa
+./Azubi Africa/documentation
+./Azubi Africa/EDA
+./Azubi Africa/code
+./Azubi Africa/logs
+./Azubi Africa/submissions
+./Azubi Africa/model
+./Azubi Africa/data
+./Azubi Africa/data/raw
+./Azubi Africa/data/processed
